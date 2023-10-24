@@ -1,4 +1,4 @@
-API_ID = ''
+API_ID = 'asdf'
 API_HASH = ''
 SESSION = ''
 DESTINATION = ''  # получатель
